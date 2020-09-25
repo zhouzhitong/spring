@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fba1a2-9ddd-41a4-89fb-fd5a09144461" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+    <list default="true" id="18fba1a2-9ddd-41a4-89fb-fd5a09144461" name="Default Changelist" comment="第一次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +162,7 @@
       <workItem from="1600870467005" duration="3319000" />
       <workItem from="1600955641266" duration="1711000" />
       <workItem from="1600959482390" duration="3844000" />
-      <workItem from="1600963739103" duration="4246000" />
+      <workItem from="1600963739103" duration="5747000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1601037111971</created>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601037111971</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1601037199571</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601037199571</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,10 +227,10 @@
       <screen x="0" y="0" width="3413" height="1400" />
     </state>
     <state x="1463" y="403" width="1525" height="595" key="#xdebugger.evaluate/0.0.3413.1400/-2560.0.2560.1400@0.0.3413.1400" timestamp="1600863959242" />
-    <state x="765" y="127" key="CommitChangelistDialog2" timestamp="1601037101534">
+    <state x="765" y="127" key="CommitChangelistDialog2" timestamp="1601039950805">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="765" y="127" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1601037101534" />
+    <state x="765" y="127" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1601039950805" />
     <state width="778" height="466" key="DebuggerActiveHint" timestamp="1600862772012">
       <screen x="0" y="0" width="3413" height="1400" />
     </state>
@@ -286,6 +293,10 @@
     </state>
     <state x="87" y="188" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1600963905582" />
     <state x="1614" y="377" key="SettingsEditor/0.0.3413.1400/-2560.0.2560.1400@0.0.3413.1400" timestamp="1600876718039" />
+    <state x="836" y="267" key="Vcs.Push.Dialog.v2" timestamp="1601040003544">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="836" y="267" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1601040003544" />
     <state x="364" y="370" key="com.intellij.ide.util.TipDialog" timestamp="1600963745377">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -306,6 +317,10 @@
       <screen x="0" y="0" width="3413" height="1400" />
     </state>
     <state x="1315" y="253" width="1671" height="900" key="dock-window-2/0.0.3413.1400/-2560.0.2560.1400@0.0.3413.1400" timestamp="1600704681212" />
+    <state x="951" y="325" key="git4idea.merge.GitPullDialog" timestamp="1601039900934">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="951" y="325" key="git4idea.merge.GitPullDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1601039900934" />
     <state x="1444" y="243" key="new project wizard" timestamp="1600248445407">
       <screen x="0" y="0" width="3413" height="1400" />
     </state>
