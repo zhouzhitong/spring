@@ -1,0 +1,24 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*/out/
+.gitignore
+.gradle/5.6.4/vcsMetadata-1/
+buildSrc/.gradle/5.6.4/vcsMetadata-1/
+buildSrc/build/generated/
+spring-aop/build/generated/
+spring-aop/build/tmp/compileJava/
+spring-beans/build/generated/
+spring-beans/build/tmp/compileGroovy/
+spring-context/build/generated/
+spring-context/build/tmp/compileJava/
+spring-core/build/generated/
+spring-core/build/tmp/compileJava/
+spring-debug/build/generated/
+spring-debug/build/tmp/
+spring-expression/build/classes/kotlin/main/
+spring-expression/build/generated/
+spring-expression/build/tmp/compileJava/
+spring-instrument/build/generated/
+spring-instrument/build/tmp/compileJava/
+spring-jcl/build/generated/
+spring-jcl/build/tmp/compileJava/
